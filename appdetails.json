@@ -6,14 +6,7 @@
     "description":"The App is available at github.com/gayankuruppu/android-vpn-client-ics-openvpn and follow the developer on GitHub github.com/gayanvoice",
     "size":"https://git.io/JeY69"
   }],
-  "blocked":[
-    {"id":0, "app":"com.android.game"},
-    {"id":1, "app":"com.utorrent.client"},
-    {"id":2, "app":"com.torrent.client"},
-    {"id":3, "app":"com.tor.client"},
-    {"id":4, "app":"com.insta.client"},
-    {"id":5, "app":"com.facebook.client"},
-    {"id":6, "app":"com.get.client"}
+  "blocked":[   
   ],
   "free":[
     {"id":1, "file":1, "city":"Singapore","country":"Singapore","image":"singapore","ip":"167.71.215.253","active":"true","signal":"c"},    
