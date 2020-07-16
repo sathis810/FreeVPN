@@ -9,6 +9,7 @@
   "blocked":[   
   ],
   "free":[
-    {"id":0, "file":0, "city":"Singapore","country":"Singapore","image":"singapore","ip":"167.71.215.253","active":"true","signal":"a"},    
+    {"id":0, "file":0, "city":"Singapore","country":"Singapore","image":"singapore","ip":"167.71.215.253","active":"true","signal":"a"},  
+    {"id":1, "file":1, "city":"London","country":"United Kingdom","image":"unitedkingdom","ip":"167.71.215.253","active":"true","signal":"b"},  
   ]
 }
